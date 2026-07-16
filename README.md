@@ -1,9 +1,20 @@
 # QuickKart 🛒
 
-A full-stack e-commerce web application inspired by quick-commerce platforms like Blinkit & Zepto. Built with **React**, **Node.js**, **Express**, and **MongoDB**.
+QuickKart is a full-stack MERN-based food ordering web application inspired by quick-commerce platforms like Blinkit and Zepto. The platform is designed to connect local restaurants and vendors with customers, especially in towns and rural areas where major food delivery services are unavailable. It provides a scalable digital marketplace with customer and admin interfaces for managing products, orders, and deliveries.
 
 ---
 
+## 🚀 Tech Highlights
+
+- Full Stack MERN Application
+- Responsive React.js Frontend
+- RESTful APIs using Express.js
+- MongoDB Database with Mongoose
+- Customer & Admin Dashboards
+- Secure Authentication
+- Modular Project Structure
+- Git Version Control
+  
 ## 🏗️ Project Structure
 
 ```
